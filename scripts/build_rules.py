@@ -19,6 +19,11 @@ RULE_SOURCES = [
         "output": "cn-apple-list.txt",
     },
     {
+        "name": "cn-google-list",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt",
+        "output": "cn-google-list.txt",
+    },
+    {
         "name": "cn-cdn-list",
         "url": "https://raw.githubusercontent.com/pmkol/easymosdns/main/rules/cdn_domain_list.txt",
         "output": "cn-cdn-list.txt",
@@ -32,6 +37,11 @@ RULE_SOURCES = [
         "name": "gfw-list",
         "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt",
         "output": "gfw-list.txt",
+    },
+    {
+        "name": "reject-list",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
+        "output": "reject-list.txt",
     },
 ]
 
