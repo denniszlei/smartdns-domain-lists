@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-06T05:39:39.920755+00:00",
+  "generated_at": "2026-05-07T05:42:42.976588+00:00",
   "files": [
     {
       "name": "direct-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
       "output": "dist/direct-list.txt",
-      "line_count": 114941,
-      "sha256": "6650b4ee209fd43b6a17efa5b821c545fba59f482384707ed1dd881f06b2253f"
+      "line_count": 114794,
+      "sha256": "7f74bbf7f1ff290836d58cdc5eaf5c0335d1bc8a6ec9f40fcc4015294eb602f1"
     },
     {
       "name": "cn-apple-list",
@@ -33,22 +33,22 @@
       "name": "proxy-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
       "output": "dist/proxy-list.txt",
-      "line_count": 26110,
-      "sha256": "e544df8e41ba06316c1add7d357df22112e43ae0304cc3284d178eced3221575"
+      "line_count": 26170,
+      "sha256": "e4e92c42d0f6141e290df31f763f776995f51cb0fc8af1aa7db2659ac83d58f9"
     },
     {
       "name": "gfw-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt",
       "output": "dist/gfw-list.txt",
-      "line_count": 4202,
-      "sha256": "7224043e8643b77a0876ad83ab9431cb7da92bc808904b091a2b4fcee7b3f3ee"
+      "line_count": 4230,
+      "sha256": "795b5c71d674485d8e5bcb8987c96d696c4c74e80769a6ec02565b612c098e65"
     },
     {
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 174731,
-      "sha256": "00c7607e18917808dbe949b4491f9f54109d066d483ece8010efa7bd656c55b6"
+      "line_count": 174947,
+      "sha256": "c11fb52ddea8eb97c97a5e274bd54a47ee794e65a21969fc1da7c8ee489fffae"
     }
   ]
 }
