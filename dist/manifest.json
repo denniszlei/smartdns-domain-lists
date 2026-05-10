@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-09T05:30:35.241375+00:00",
+  "generated_at": "2026-05-10T05:46:01.012216+00:00",
   "files": [
     {
       "name": "direct-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
       "output": "dist/direct-list.txt",
-      "line_count": 114525,
-      "sha256": "c5f5d022b08b85aa08cef29a67784db143238479e4ad0692501d21449c3e6b03"
+      "line_count": 114318,
+      "sha256": "33865f0caa46d84d1481507065760affb962a63bc7f965a2be0276a5d577f979"
     },
     {
       "name": "cn-apple-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt",
       "output": "dist/cn-apple-list.txt",
-      "line_count": 167,
-      "sha256": "7c51aa26a69524d6f38334b0bd2d1c1fd91cee9f325b90a04d029263320f72d5"
+      "line_count": 163,
+      "sha256": "dddcaee7f6f9f2bfc19fffe5994275c48c4d6c087cdafeaa122c4b7528d35c93"
     },
     {
       "name": "cn-google-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt",
       "output": "dist/cn-google-list.txt",
-      "line_count": 143,
-      "sha256": "0e0e2f545311c6006667d44a48136867263f2e1c55c3a491c8849b38b13a5705"
+      "line_count": 112,
+      "sha256": "8ae455bd84b8d401642c99d914fd04f1317647252e913a9d1fc4166a4b0a9448"
     },
     {
       "name": "cn-cdn-list",
@@ -33,8 +33,8 @@
       "name": "proxy-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
       "output": "dist/proxy-list.txt",
-      "line_count": 26172,
-      "sha256": "638c1a20a85ba54b89f60852de86dbd49df6d3a149ce7adadfd484b51a625eec"
+      "line_count": 26175,
+      "sha256": "86538d3b66d568ff0d419a922af99d84103395fcd99294639173cb6e32bb539e"
     },
     {
       "name": "gfw-list",
@@ -47,8 +47,8 @@
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 172518,
-      "sha256": "125419ec61c0610676e7d7af73cb9a741f7ba115018c7f4d7ccde493e61f4867"
+      "line_count": 172715,
+      "sha256": "b8431d43f6a1f9dd7af576db763141954c1c9c88fa2cc459e486344b06ad2783"
     }
   ]
 }
