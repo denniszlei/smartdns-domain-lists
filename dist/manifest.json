@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-04T06:57:25.791975+00:00",
+  "generated_at": "2026-06-05T06:44:33.288280+00:00",
   "files": [
     {
       "name": "direct-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
       "output": "dist/direct-list.txt",
-      "line_count": 113209,
-      "sha256": "63aeff659faa9ed0f175150009c736ee69e51f20eebc236913b0bd352bbd0d9a"
+      "line_count": 113092,
+      "sha256": "5920b40115e8663cc7c7a42f4780c4bb6cfd0f946fa305df2fbfbd671ab87615"
     },
     {
       "name": "cn-apple-list",
@@ -47,8 +47,8 @@
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 169364,
-      "sha256": "d9ab003a6e11e8f40b88d343bd76f20f772c6010d051c09e7901a5c271ba21b4"
+      "line_count": 169669,
+      "sha256": "6f610fa8963585d4004737c5400e37470f8c7288df8cbb4a5a174f84996408eb"
     }
   ]
 }
