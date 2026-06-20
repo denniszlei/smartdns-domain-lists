@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-19T07:31:00.324235+00:00",
+  "generated_at": "2026-06-20T06:42:16.232610+00:00",
   "files": [
     {
       "name": "direct-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
       "output": "dist/direct-list.txt",
-      "line_count": 112587,
-      "sha256": "bfcdf2c6472e20371f121908562ce1bfeb42f6f9667fe04fd7b725a0c99e3cc7"
+      "line_count": 112593,
+      "sha256": "17f607667fdb85f34d0c3a6a16498179b3e637c3c8131d2cbd285127ff537aeb"
     },
     {
       "name": "cn-apple-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt",
       "output": "dist/cn-apple-list.txt",
-      "line_count": 163,
-      "sha256": "dddcaee7f6f9f2bfc19fffe5994275c48c4d6c087cdafeaa122c4b7528d35c93"
+      "line_count": 164,
+      "sha256": "5a8af7b78916f04000d4d0df6ac2316c374f7f3a7ff72c16f5713c1fe052aeeb"
     },
     {
       "name": "cn-google-list",
@@ -33,22 +33,22 @@
       "name": "proxy-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
       "output": "dist/proxy-list.txt",
-      "line_count": 26737,
-      "sha256": "c43257e6ff9c4b0d880705d80c4519421258845b7e100ebffe44148f895033c6"
+      "line_count": 26766,
+      "sha256": "f8d5d7d3cc6e075081827d67fa5dfd0d380e41edf4c807507f86f201b2dc95a1"
     },
     {
       "name": "gfw-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt",
       "output": "dist/gfw-list.txt",
-      "line_count": 4256,
-      "sha256": "6b42e34b659d13aaeb89a44b30b3563b5ec91f149f26ccf4cfc494b39917d0a4"
+      "line_count": 4341,
+      "sha256": "0385f0c66ee48e3d8469a925f99960038105665051c14d07e8c8096e1d18ff09"
     },
     {
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 166615,
-      "sha256": "962658df0ef8f166acc1d5512152b6694a68e516a7edd4c180daedd32c4faf25"
+      "line_count": 166925,
+      "sha256": "e000de7445699c6cc1141f4c9d083cee263456f2065a6cabb39808e805904b33"
     }
   ]
 }
