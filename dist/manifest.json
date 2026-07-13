@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T05:38:47.397500+00:00",
+  "generated_at": "2026-07-13T05:49:11.046323+00:00",
   "files": [
     {
       "name": "direct-list",
@@ -33,8 +33,8 @@
       "name": "proxy-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
       "output": "dist/proxy-list.txt",
-      "line_count": 26847,
-      "sha256": "f322e1e5a8bb523face92c80516db4f452aa6efb24dc709b70393cbdc9d3f888"
+      "line_count": 26848,
+      "sha256": "85ddfa78b363467e892d47d12b5f1f4ecea3b1413f3451abba17eb381cc4cec0"
     },
     {
       "name": "gfw-list",
@@ -47,8 +47,8 @@
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 165392,
-      "sha256": "5fb2c8ba005aa2eeaef1743cc1a2522d36c826a68953a0daf0a059b7e8fc1ac0"
+      "line_count": 165713,
+      "sha256": "e651af3b17229214da546f2e81da16166f6503d718513022acca74fbada9f04a"
     }
   ]
 }
