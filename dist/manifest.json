@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:12:52.986838+00:00",
+  "generated_at": "2026-09-04T07:16:04.337139+00:00",
   "files": [
     {
       "name": "direct-list",
@@ -47,8 +47,8 @@
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 188591,
-      "sha256": "0429fb774c8d28650b4f0d2c1a472b84597e9284fdffc054ec6b91131caaee39"
+      "line_count": 188868,
+      "sha256": "63dda35dcfcb3f2b8e4f1787cb7be0dd663a26aa97c0a1a0d09fad6f735ad8e3"
     }
   ]
 }
