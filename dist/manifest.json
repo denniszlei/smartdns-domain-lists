@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:33:31.734897+00:00",
+  "generated_at": "2026-11-06T09:28:10.495598+00:00",
   "files": [
     {
       "name": "direct-list",
@@ -41,14 +41,14 @@
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt",
       "output": "dist/gfw-list.txt",
       "line_count": 4452,
-      "sha256": "ab4f97ba1406c9deaa368b4beea88e4f6c605d54511977f6aa80cec50493c733"
+      "sha256": "a9b8c0648dbd32361683f67d98ee734949e5be83bb7e6c0d5b8cccb69a9ebccb"
     },
     {
       "name": "reject-list",
       "source_url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
       "output": "dist/reject-list.txt",
-      "line_count": 197494,
-      "sha256": "b896bdd8fb83014bdbd6e7db00120fedfa30770176dc98bad828a826a004d0eb"
+      "line_count": 198817,
+      "sha256": "9666279ff58c84d8e27bfb336b09a16ccba04c2f77cba44f664b2ed351fcb293"
     }
   ]
 }
